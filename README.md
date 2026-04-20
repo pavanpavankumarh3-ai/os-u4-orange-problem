@@ -84,7 +84,7 @@ Stored as object
 HEAD updated
 👨‍💻 Author
 
-SHAM SANTHOSH S
+PAVAN KUMAR H
 
 Submission Checklist
  Code implemented
